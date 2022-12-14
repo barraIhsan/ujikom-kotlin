@@ -23,6 +23,7 @@
             android:name=".Splash"
             android:exported="true">
             <intent-filter>
+                <!-- Disini, kita set activity Splash sebagai activity yang dibuka pertama kali -->
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
