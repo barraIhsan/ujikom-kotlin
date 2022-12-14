@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name" translatable="false">Login - Barra Ihsan</string>
+    <string name="login">Login</string>
+    <string name="email" translatable="false">Email</string>
+    <string name="pass" translatable="false">Password</string>
+    <string name="exampleEmail">example@example.com</string>
+    <string name="examplePassword" translatable="false">········</string>
+    <string name="hello">Hello!</string>
+    <string name="greetingOne">Welcome back Fulan!</string>
+    <string name="greetingTwo">What can we help you today?</string>
+</resources>

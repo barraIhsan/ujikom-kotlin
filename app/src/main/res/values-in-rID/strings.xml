@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="login">Masuk</string>
+    <string name="exampleEmail">contoh@example.com</string>
+    <string name="hello">Halo!</string>
+    <string name="greetingOne">Selamat datang Fulan!</string>
+    <string name="greetingTwo">Ada yang kami bisa bantu?</string>
+</resources>
